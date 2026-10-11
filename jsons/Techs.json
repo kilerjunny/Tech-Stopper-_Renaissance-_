@@ -67,11 +67,12 @@
 				"quote": "'So teach us to number our days, so that we may apply our hearts unto wisdom.' - Bible Psalms 90:12"
 			},
 			{
-				"name": "Writing",
-				"row": 3,
-				"prerequisites": ["Pottery"],
-				"quote": "'He who destroys a good book kills reason itself.' - John Milton"
-			},
+                "name": "Writing",
+                "row": 3,
+                "prerequisites": ["Pottery"],
+                "uniques": ["Enables establishment of embassies <Civilopedia link [Tutorials/Embassies]>"],
+                "quote": "'He who destroys a good book kills reason itself.' - John Milton"
+            },
 			{
 				"name": "Trapping",
 				"row": 5,
